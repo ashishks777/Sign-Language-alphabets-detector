@@ -9,7 +9,7 @@ let model;
 var counter=0;
 var result=document.getElementById("result");
 (async function () {
-    model = await tf.loadLayersModel('model.json');
+    model = await tf.loadLayersModel('https://raw.githubusercontent.com/ashishks777/Sign-Language-alphabets-detector/main/model.json');
 
 })();
 
