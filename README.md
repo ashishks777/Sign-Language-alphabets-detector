@@ -10,7 +10,7 @@ Most research implementations used till date for this task involve resource inte
 
 <img src="https://user-images.githubusercontent.com/88076346/235151382-2b896082-0f8c-4673-8bef-5467e56a6cb0.jpg" width="530" height="750">
 
-<img src="https://user-images.githubusercontent.com/88076346/235202520-dbfb6777-fdef-4a9b-a39f-5abfba40b21e.jpg" width="507" height="280">
+<img src="https://user-images.githubusercontent.com/88076346/235202520-dbfb6777-fdef-4a9b-a39f-5abfba40b21e.jpg" width="710" height="392">
 
 <h2>Web Model</h2>
 To ensure that our machine learning model was easily accessible to users with smartphones, we created a web version of it using mediapipeJS and tensorflow.js. The first step in this process was converting the model into a format that could be read by the javascript version of tensorflow.
