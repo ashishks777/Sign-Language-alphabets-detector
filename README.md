@@ -1,6 +1,6 @@
 # Sign-Language-alphabets-detector
 
-Demo:<a href="https://ashishks777.github.io/Sign-Language-alphabets-detector/"></a>
+Demo:<a href="https://ashishks777.github.io/Sign-Language-alphabets-detector/">click here</a>
 
 Building a neural network that can identify which letter of the Indian Sign Language (ISL) alphabet is being signed, given an input feed of a signing hand, is the purpose of this project. The project attempts to create a potential sign language translator that could translate sign language communications into written language. Such a translator would greatly lower the barrier for many deaf and mute individuals to be able to better communicate with others in day to day interactions.
 
