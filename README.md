@@ -20,3 +20,9 @@ To achieve this, we utilized the conversion tools provided by tensorflow.js, whi
 The live video feed was then passed to the mediapipeJS library for processing. After processing, we preprocessed the results from mediapipeJS to ensure that they were compatible with the machine learning model. Once we had preprocessed the data, we passed it to the machine learning model for analysis and prediction.
 
 The predictions made by the model were then displayed on the user's screen in real-time. By creating a web-based version of our machine learning model, we have made it easily accessible to a wider range of users, thereby promoting the use of machine learning technology in various applications.
+
+
+<img src="https://github.com/ashishks777/Sign-Language-alphabets-detector/assets/88076346/3791869a-a55d-45f9-9259-b73c0ca1d1a2" width="710" height="399">
+
+<img src="https://github.com/ashishks777/Sign-Language-alphabets-detector/assets/88076346/340b6728-9279-4fbe-a50e-f42a4d7d64a2" width="710" height="390">
+
